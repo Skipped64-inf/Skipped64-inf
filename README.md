@@ -1,9 +1,9 @@
 
 
 
-- 🔭 I’m currently working on something
-- 🌱 I’m currently learning everything
-- 👯 I’m looking to collaborate on anything
+- 🔭 I’m currently working on: something
+- 🌱 I’m currently learning: everything
+- 👯 I’m looking to collaborate on: anything
 - ⚡ Fun fact: nothing
 
 # Overview
